@@ -1,0 +1,34 @@
+body {
+background-color:gray;}
+ 
+div {width:500px;
+ margin-left:200px;
+ margin-right:200px;}
+ 
+ .name {
+ font-weight:bold;
+ text-transform:uppercase;
+ text-align:center;}
+ 
+ .photo{
+ 	text-align:center;
+ 	}
+ 	
+	
+ .about {
+	 font-size:15px;}
+ 
+ .
+ .hr{
+ 	padding-left:50px;
+ 	padding-right: 50px;
+ 	margin:20px;
+ }
+ 
+ .list p{
+	 font-weight:bold;}
+ 	
+ a {padding-left:25px;
+ font-style:oblique;}
+ 
+ 
